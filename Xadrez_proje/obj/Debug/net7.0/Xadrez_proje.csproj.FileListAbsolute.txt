@@ -1,0 +1,15 @@
+C:\CSharp\Xadrez_proje\Xadrez_proje\bin\Debug\net7.0\Xadrez_proje.exe
+C:\CSharp\Xadrez_proje\Xadrez_proje\bin\Debug\net7.0\Xadrez_proje.deps.json
+C:\CSharp\Xadrez_proje\Xadrez_proje\bin\Debug\net7.0\Xadrez_proje.runtimeconfig.json
+C:\CSharp\Xadrez_proje\Xadrez_proje\bin\Debug\net7.0\Xadrez_proje.dll
+C:\CSharp\Xadrez_proje\Xadrez_proje\bin\Debug\net7.0\Xadrez_proje.pdb
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.csproj.AssemblyReference.cache
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.AssemblyInfoInputs.cache
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.AssemblyInfo.cs
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.csproj.CoreCompileInputs.cache
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.dll
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\refint\Xadrez_proje.dll
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.pdb
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\Xadrez_proje.genruntimeconfig.cache
+C:\CSharp\Xadrez_proje\Xadrez_proje\obj\Debug\net7.0\ref\Xadrez_proje.dll
