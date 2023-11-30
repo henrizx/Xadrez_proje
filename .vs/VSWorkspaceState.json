@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Xadrez_proje"
+    "\\Xadrez_proje",
+    "\\Xadrez_proje\\tabuleiro"
   ],
-  "SelectedNode": "\\Xadrez_proje\\tabuleiro",
+  "SelectedNode": "\\Xadrez_proje\\tabuleiro\\Tabuleiro.cs",
   "PreviewInSolutionExplorer": false
 }
